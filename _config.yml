@@ -3,7 +3,7 @@ title: Friskoven Kleinsmedie
 email: kontakt@friskoven-kleinsmedie.dk
 phone: 12345678
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/friskoven-kleinsmedie/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 facebook_url: friskoven-kleinsmedie
