@@ -69,6 +69,16 @@ aside {
 
 // Navigation
 
+// ======= Poul Edit =======
+.navbar-default .navbar-toggle {
+  border-color: $theme-primary;
+}
+.burger-menu-text {
+    color: $theme-primary;
+    font-weight: bold;
+}
+// ======= End of Poul Edit =======
+
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
@@ -83,6 +93,7 @@ aside {
         &:focus {
             color: darken($theme-primary, 10%);
         }
+
     }
     .nav {
         > li {
