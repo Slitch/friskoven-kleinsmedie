@@ -4,7 +4,6 @@ email: kontakt@friskoven-kleinsmedie.dk
 phone: 12345678
 description: Friskoven Kleinsmedie rådgiver, projekterer, tegner og forarbejder aluminium, jern og rustfrit stål. Herunder fremstiller og svejser vi stålkonstruktioner, facader, ...
 tagline: Friskoven Kleinsmedie
-image: /img/header1.jpg
 locale: da_DK
 
 baseurl: "/friskoven-kleinsmedie/" # the subpath of your site, e.g. /blog/
