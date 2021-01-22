@@ -1,4 +1,6 @@
 # Friskoven Kleinsmedie - webside
+[https://slitch.github.io/friskoven-kleinsmedie](https://slitch.github.io/friskoven-kleinsmedie)
+***
 
 # Creative Theme for Jekyll
 
