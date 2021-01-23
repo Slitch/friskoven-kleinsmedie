@@ -52,7 +52,8 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .7);
+    // color: rgba(white, .7);
+    color: rgba(white, 1.0);
 }
 
 section {
@@ -66,7 +67,37 @@ aside {
 .no-padding {
     padding: 0;
 }
-
+// START OF Top menu by Poul ===========================
+.masthead {
+    background-color: black;
+    font-family: Arial,sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.masthead-nav > li {
+  display: inline-block !important;
+}
+.masthead-nav > li + li {
+  margin-left: 15px !important;
+}
+.masthead-nav > li > a {
+  text-transform: lowercase !important;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  color: #fff !important; /* IE8 proofing */
+  
+  background-color: #000 !important;
+}
+@media (max-width: 768px) {
+  .masthead-nav {
+    text-align: center !important;
+  }
+}
+// END OF Top menu by Poul ===========================
 // Navigation
 
 // ======= Poul Edit =======
