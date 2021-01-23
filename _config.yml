@@ -16,4 +16,5 @@ facebook_url: friskoven-kleinsmedie
 markdown: kramdown
 
 plugins:
+  - jekyll-sitemap
   - jekyll-seo-tag
